@@ -1,3 +1,3 @@
-# Try-These-APIs
+# Memo-for-Study
 
-https://qiita.com/hamaup/items/cd7212aa1d0b1f0e37de
+試してみたいことメモ置き場
